@@ -10,3 +10,44 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.body{
+   font-size: 50px;
+   color:white;
+   padding-top: 25px;
+   height: 30px;
+}
+
+.weather-items{
+    color: white;
+    margin-top: 75px;
+    border-color: black;
+
+    
+
+}
+.background{
+    background-image: url("https://picsum.photos/id/124/1200/750");
+    height: 700px;
+    width: 550px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 100px;
+    
+}
+input[type=text]{
+    margin:5px;
+    background-color: none;
+    border-radius: 5%;
+    color: black;
+    margin-top: 50px;
+   
+
+}
+button{
+    background-color: rgb(112, 156, 156);
+    color: white;
+    margin-left: 25px;
+    border: none;
+}
+
+
